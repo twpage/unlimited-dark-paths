@@ -1,2 +1,2 @@
 # unlimited-dark-paths
-A small experiment to generate infinite roguelike-type levels
+A small experiment to generate infinitely expanding roguelike-type levels
